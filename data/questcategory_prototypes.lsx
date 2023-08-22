@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="331"/>
+    <region id="QuestCategories">
+        <node id="root">
+            <children>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Companions"/>
+                    <attribute id="Description" type="TranslatedString" handle="hffe5de5bg5a97g4c9aga10fge8baab7f4f74" version="1"/>
+                    <attribute id="SortingPriority" type="int32" value="1"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Act3_HiddenBoosters"/>
+                    <attribute id="Description" type="TranslatedString" handle="h3bb030dag2bdfg4b09gb801g1da901f19382" version="5"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Act1_HiddenBoosters"/>
+                    <attribute id="Description" type="TranslatedString" handle="ha416046dg2735g43f5ga2ceg41dd420d1942" version="3"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="PersonalStory"/>
+                    <attribute id="Description" type="TranslatedString" handle="hbb0e77b0g7a70g4baagb499g9463ccb8dd6d" version="2"/>
+                    <attribute id="SortingPriority" type="int32" value="9"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Shadowcurse"/>
+                    <attribute id="Description" type="TranslatedString" handle="h9563387bga011g4a88g9481g0923bdab7ed7" version="2"/>
+                    <attribute id="SortingPriority" type="int32" value="7"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="MainQuest"/>
+                    <attribute id="Description" type="TranslatedString" handle="he26ad57ag1412g49a1g92c4g52576d617312" version="2"/>
+                    <attribute id="SortingPriority" type="int32" value="10"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Creche"/>
+                    <attribute id="Description" type="TranslatedString" handle="h91f98819g9a4cg4db0gaddbg4b247923f6e5" version="2"/>
+                    <attribute id="SortingPriority" type="int32" value="6"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="BaldursGate"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc4f8aec9gc4e7g481bgaf9fg7438a2df44ed" version="2"/>
+                    <attribute id="SortingPriority" type="int32" value="8"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Tutorial"/>
+                    <attribute id="Description" type="TranslatedString" handle="h17a72460g3f57g4e82g95a0g835789a29cc8" version="1"/>
+                    <attribute id="SortingPriority" type="int32" value="10"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Underdark"/>
+                    <attribute id="Description" type="TranslatedString" handle="h7f990341g8a30g42fagad3ag2f641b2667b4" version="2"/>
+                    <attribute id="SortingPriority" type="int32" value="4"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Crashside"/>
+                    <attribute id="Description" type="TranslatedString" handle="he38092f0g0ee5g477egb295g18e54d2e3468" version="4"/>
+                    <attribute id="SortingPriority" type="int32" value="3"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Grove"/>
+                    <attribute id="Description" type="TranslatedString" handle="hf18feb5bg7386g4b91g8fa7gd3e714b031d7" version="2"/>
+                    <attribute id="SortingPriority" type="int32" value="5"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="Act2_HiddenBoosters"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc505afafg81f6g45b1ga1a9g1dca00ca4415" version="2"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+                <node id="QuestCategory">
+                    <attribute id="CategoryID" type="FixedString" value="CompletedQuests"/>
+                    <attribute id="Description" type="TranslatedString" handle="h8bd09018gb68dg4798gb5a0g273fd76d6757" version="2"/>
+                    <attribute id="SortingPriority" type="int32" value="0"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
